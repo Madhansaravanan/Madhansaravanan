@@ -1,4 +1,4 @@
-```markdown id="ghreadme01"
+
 # 👋 Hey there, I'm Madhan Saravanan
 
 ## 🚀 About Me
@@ -132,4 +132,3 @@ Building Retrieval-Augmented Generation (RAG) applications integrating vector da
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Madhansaravanan.Madhansaravanan)
-```
